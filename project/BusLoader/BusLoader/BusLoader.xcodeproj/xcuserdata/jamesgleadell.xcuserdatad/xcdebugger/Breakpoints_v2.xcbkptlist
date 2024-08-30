@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0DE634A2-FAF0-49A9-90BE-FD8071BFA35A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F49C7065-A2D9-484C-B919-7E6809C73DAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/StudentList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F49C7065-A2D9-484C-B919-7E6809C73DAE - 2f8db7eee1a2da84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BusLoader.StudentList.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/StudentList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "F49C7065-A2D9-484C-B919-7E6809C73DAE - 8749d7e1c361ae2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in BusLoader.StudentList.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/StudentList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F49C7065-A2D9-484C-B919-7E6809C73DAE - d6829f2cf8e8c487"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BusLoader.StudentList.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/StudentList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B375459-4399-46F0-918A-7D6D9130BBCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "DataFetcher"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5B375459-4399-46F0-918A-7D6D9130BBCD - 3b9c45ea97c12889"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchData() async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "5B375459-4399-46F0-918A-7D6D9130BBCD - b04a7c8dae5868fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BusLoader.DataFetcher.fetchData() async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "5B375459-4399-46F0-918A-7D6D9130BBCD - 42a1ded4a70c7c8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BusLoader.DataFetcher.fetchData() async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "5B375459-4399-46F0-918A-7D6D9130BBCD - 26249b49aef1da8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for BusLoader.DataFetcher.fetchData() async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E01D4427-FE53-4610-8C7C-DE9795A3C2B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "unwrapData(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "341DE9CD-59A3-47D6-8484-DFE4457BE9D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "341DE9CD-59A3-47D6-8484-DFE4457BE9D4 - 51d29166ce59bb4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusLoader.LoginView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "341DE9CD-59A3-47D6-8484-DFE4457BE9D4 - 828de59f10d964"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async -&gt; () in BusLoader.LoginView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AD70076-FA25-47D1-8561-33FA9578DB9F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8AD70076-FA25-47D1-8561-33FA9578DB9F - 8896778ffa3573fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BusLoader.LoginView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "8AD70076-FA25-47D1-8561-33FA9578DB9F - 9dc59a76e09e0c99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in BusLoader.LoginView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "8AD70076-FA25-47D1-8561-33FA9578DB9F - fa4e80645cf8dfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BusLoader.LoginView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BCAC1BA-FFE9-4B74-94D3-7F104F7321C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "unwrapBusCaptainData(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0D187E8-ED8A-4825-AB2C-43181F374EA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "DataFetcher"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A0D187E8-ED8A-4825-AB2C-43181F374EA6 - 18f0ec2d7c4b56fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchBusCaptainData() async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "A0D187E8-ED8A-4825-AB2C-43181F374EA6 - 18f0ec2d7c4b56fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchBusCaptainData() async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "A0D187E8-ED8A-4825-AB2C-43181F374EA6 - 18f0ec2d7c4b56fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchBusCaptainData() async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "845E6C2E-CF8D-432B-B8FD-158B76907B38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "unwrapEventData(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1486D86-92ED-40B8-B7F2-E137CB8A30C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "unwrapAttendeeData(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "452960F2-1CA8-4172-A3E7-8779AF5BB901"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/EventView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "452960F2-1CA8-4172-A3E7-8779AF5BB901 - 566fe60e7b55bafd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;)&gt; in BusLoader.EventView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/EventView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "452960F2-1CA8-4172-A3E7-8779AF5BB901 - 12ecb31255c041b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async -&gt; () in closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;)&gt; in BusLoader.EventView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/EventView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACA7E887-1EB2-46CF-A33F-F22E57A3F7B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "DataFetcher"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "ACA7E887-1EB2-46CF-A33F-F22E57A3F7B6 - d97a3ea2c0a08971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchAttendeeData(attendeeUrl: Swift.String) async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "ACA7E887-1EB2-46CF-A33F-F22E57A3F7B6 - d97a3ea2c0a08971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchAttendeeData(attendeeUrl: Swift.String) async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "ACA7E887-1EB2-46CF-A33F-F22E57A3F7B6 - d97a3ea2c0a08971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchAttendeeData(attendeeUrl: Swift.String) async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2037236E-6988-4BBC-B035-75F4AE210471"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/EventView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75A85BD9-6C8F-47F7-8D11-EAFFF8457FB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/Model/Student.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "Student"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46E0B49F-96E8-401A-8B54-C5D4E9786781"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/Model/Student.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "==(lhs:rhs:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96C90A23-DA24-4E36-B181-DA07C72F8548"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65929EFD-866B-450D-BCA1-4902320D29FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "DataFetcher"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "65929EFD-866B-450D-BCA1-4902320D29FD - 2f028814cef78870"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchAttendeeData(event: BusLoader.Event) async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "65929EFD-866B-450D-BCA1-4902320D29FD - 2f028814cef78870"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BusLoader.DataFetcher.fetchAttendeeData(event: BusLoader.Event) async throws -&gt; ()"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2088">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E758EA9-B54E-427B-B3CA-E27E368B4F64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "setAttendeeStateOnBus(onBus:attendee:event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECCD4FFC-213B-47A7-9609-673BD81876FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/EventView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "ECCD4FFC-213B-47A7-9609-673BD81876FB - c4c352da1d2ae3d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.tint(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 (BusLoader.Attendee) -&gt; &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;BusLoader.Attendee&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;BusLoader.Attendee&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.EmptyView&gt;)&gt; in BusLoader.EventView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/EventView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "ECCD4FFC-213B-47A7-9609-673BD81876FB - 354779cbdf99e0c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.tint(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #1 (BusLoader.Attendee) -&gt; &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0 in closure #2 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;BusLoader.Attendee&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;BusLoader.Attendee&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.foregroundColor(Swift.Optional&lt;SwiftUI.Color&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.EmptyView&gt;)&gt; in BusLoader.EventView.body.getter : some"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/EventView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85E089B2-60E9-4777-ABD1-2F9628F9062D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/EventView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8798C9B8-5A6E-4684-8293-46E5B9DC4F20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "setAttendeeStateOnBus(onBus:attendee:event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8798C9B8-5A6E-4684-8293-46E5B9DC4F20 - bda06a3d1ac9ce60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusLoader.DataFetcher.setAttendeeStateOnBus(onBus: Swift.Bool, attendee: BusLoader.Attendee) -&gt; Swift.Bool"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  uuid = "8798C9B8-5A6E-4684-8293-46E5B9DC4F20 - bda06a3d1ac9ce60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusLoader.DataFetcher.setAttendeeStateOnBus(onBus: Swift.Bool, attendee: BusLoader.Attendee) -&gt; Swift.Bool"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "1860">
+               </Location>
+               <Location
+                  uuid = "8798C9B8-5A6E-4684-8293-46E5B9DC4F20 - bda06a3d1ac9ce60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusLoader.DataFetcher.setAttendeeStateOnBus(onBus: Swift.Bool, attendee: BusLoader.Attendee) -&gt; Swift.Bool"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "4056">
+               </Location>
+               <Location
+                  uuid = "8798C9B8-5A6E-4684-8293-46E5B9DC4F20 - bda06a3d1ac9ce60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusLoader.DataFetcher.setAttendeeStateOnBus(onBus: Swift.Bool, attendee: BusLoader.Attendee) -&gt; Swift.Bool"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "4204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97FDB513-1FE4-4708-9989-91C07AB15948"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "setAttendeeStateOnBus(onBus:attendee:event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DA969C9-7B6E-4EA7-AC7A-BAA174187D3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/EventView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E386CC28-FD75-4FA6-A09E-23A90F613E84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "setAttendeeStateOnBus(onBus:attendee:event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "241B3680-7995-4390-8A5D-8C6A196F0769"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "setAttendeeStateOnBus(onBus:attendee:event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F3E3403-7EDE-496F-88BF-AD5BC180B215"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BusLoader/DataFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "setAttendeeStateOnBus(onBus:attendee:event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F3E3403-7EDE-496F-88BF-AD5BC180B215 - bda06a3d1ac9ce85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BusLoader.DataFetcher.setAttendeeStateOnBus(onBus: Swift.Bool, attendee: BusLoader.Attendee) -&gt; Swift.Bool"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "0F3E3403-7EDE-496F-88BF-AD5BC180B215 - c68506b80d8f6fed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BusLoader.DataFetcher.setAttendeeStateOnBus(onBus: Swift.Bool, attendee: BusLoader.Attendee) -&gt; Swift.Bool"
+                  moduleName = "BusLoader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jamesgleadell/Coding/SwiftProjects/BusLoader/BusLoader/BusLoader/DataFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

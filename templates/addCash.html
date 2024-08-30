@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Add Cash
+{% endblock %}
+
+{% block main %}
+    <form id="cash" method="POST" action="/addCash">
+        <input autocomplete="off" autofocus name="cashAdding" type="number" placeholder="Amount of cash (whole number) wanting to add (without dollar sign)">
+        <button type="submit" form="cash">Submit</button>
+    </form>
+{% endblock %}

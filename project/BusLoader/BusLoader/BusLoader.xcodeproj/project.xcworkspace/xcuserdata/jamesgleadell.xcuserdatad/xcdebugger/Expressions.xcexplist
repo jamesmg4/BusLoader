@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DataFetcher.fetchData():DataFetcher.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DataFetcher.unwrapData(data:):DataFetcher.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in StudentList.body.getter:StudentList.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

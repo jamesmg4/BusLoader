@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Sell
+{% endblock %}
+
+{% block main %}
+    <form id="sell" method="POST" action="/sell">
+        <select name="symbol">
+            {% for sym in arr %}
+                <option> {{ sym.stock }}</option>
+            {% endfor %}
+        </select>
+        <input autocomplete="off" name="shares" type="number" placeholder="Share Amount">
+        <button type="submit" form="sell">Submit</button>
+    </form>
+{% endblock %}
